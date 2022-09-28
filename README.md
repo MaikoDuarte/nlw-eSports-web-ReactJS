@@ -46,7 +46,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<p><link href="https://reactjs.org/">ReactJS</link></p>
+-[React](https://reactjs.org/)
 <p>NodeJS</p>
 <p>Typescript</p>
 <p>Prisma</p>
