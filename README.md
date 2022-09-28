@@ -1,9 +1,9 @@
-# <h1> align="center>Nlw-eSports</h1>
+# <h1 align="center">Nlw-eSports</h1>
 
 
 <h1 align="center">
-  <img alt="screenshot" title="home" src="screenshot.png" />
-  <img alt="screenshot2" title="modal" src="screenshot2.png" />
+  <img alt="screenshot" title="home" src="./screenshot.png" />
+  <img alt="screenshot2" title="modal" src="./screenshot2.png" />
 </h1>
 
 <p align="center">
