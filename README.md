@@ -1,4 +1,4 @@
-# <h1 align="center" font="Inter">Nlw-eSports</h1>
+# <h1 align="center" style="font-family:Inter;">Nlw-eSports</h1>
 
 
 
