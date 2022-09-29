@@ -46,11 +46,11 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--[React](https://reactjs.org/)
-<p>NodeJS</p>
-<p>Typescript</p>
-<p>Prisma</p>
-<p>TailwindCSS</p>
+- [ReactJS](https://reactjs.org/)
+- [NodeJS](https://nodejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 
 ## 💻 Projeto
@@ -66,7 +66,7 @@ Nesse projeto você pode encontrar um amigo para jogar, selecionado o jogo e esc
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-## :iphone: Demo: Deploy
+## 💻: Demo: Deploy
 
 A aplicação Web poderá ser acessada aqui: 
 
